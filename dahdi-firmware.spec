@@ -2,7 +2,7 @@ Name:		dahdi-firmware
 Summary:	Non-free firmware for dahdi
 Group:		System/Kernel and hardware
 Version:	2.6.1
-Release:	2
+Release:	3
 License:	Proprietary
 URL:		http://www.asterisk.org/
 # firmware extracted from http://downloads.asterisk.org/pub/telephony/dahdi-linux/dahdi-linux-%{version}.tar.gz
