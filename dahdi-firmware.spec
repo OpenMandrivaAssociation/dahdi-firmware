@@ -4,7 +4,7 @@ Group:		System/Kernel and hardware
 Version:	2.6.1
 Release:	3
 License:	Proprietary
-URL:		http://www.asterisk.org/
+URL:		https://www.asterisk.org/
 # firmware extracted from http://downloads.asterisk.org/pub/telephony/dahdi-linux/dahdi-linux-%{version}.tar.gz
 Source0:	%{name}-%{version}.tar.xz
 BuildArch:	noarch
